@@ -1,0 +1,26 @@
+A website is required to share the information about anything thro the Internet so that it could reach lots of people across the globe.
+Internet is a medium thro which computers are connected thro a virtual world and able to transfer Text based Information that is viewed thro a software called Browser. 
+Browser is required to view the content. The content is placed inside a file, typically called as WEB PAGE.  All the related Web Pages are grouped to create WebSite. This Website would contain info about a certain topic. 
+Websites are placed in dedicated machines(Web servers) that work all the time so that people across the globe at diferent time can view those pages.  
+Browsers are very thin software that is installed in almost every electronic visual gadget , which makes UR pages viewable in lots of devices. 
+Mac machine has Safari Browser, Unix machines will have Firefox, Windows PCs have Edge or IE and Chrome Books have Chrome in it. All andriod devices have Chrome in it. So most of the electronic gadgets would have Browser in it. So people who wish to view UR content need not install any additional software. 
+
+What it needs to create a Web Site?
+Technically U should know a markup language called HTML. Hyper Text Markup Language, Text based Formatting language that is used to transfer Text based info using a std called HTTP(Hyper Text Transfer Protocol).
+Markup languages are one that contain Tags which will be interpreted to display the text in a certain format. 
+A Markup language is a system for annotating a document in a way that is syntactically distinguishable from the text.  It will contain some easily understandale keywords(Tags) which will help in formatting the content and give a overall view of a page and data it contains. HTML is the most popular Markup language available. Other Examples are SGML(Standard Generalized Markup Language), XML(eXtensible Markup Language) and many more.
+
+To provide graphical content to the document, U need CSS(Cascading Style Sheets). Regular Content of the Markup language will not have much colors and font sizes to make it attractive. So we use styles to add colors to UR web pages. 
+
+HTML is static(Content would not change) content. To make it interactive, dynamic or display the content based on UR choices U need a scripting language like JavaScript to add Programs in the web pages so that it could be dynamic. 
+
+Finally, to store the data we use Web servers, a place where UR Websites are stored and the data of those sites are stored in a dedicated software called database. This part will not be discussed in our session.
+
+Once U develop a website,  U need to HOST(store) the Site inside a Web server. These servers are high end machines with high configurations and people to take care of it all the time. GoDaddy is one such company which will allow U to host UR website in their machine. For that U need to pay them annually as a RENT. 2Things: One for the location and 2 For the Machine that hosts that website.  
+----------------------------------------------------------------------------------------------------------
+
+
+
+<div>: All HTML Documents should divided into blocks or divisions. In HTML, divisions in a HTML document is created using a tag called div. div defines the logical unit of the html document.
+Divs can have headings, other divs, paragraphs and other HTML elements within it. It is advisable to have UR HTML doc divided into multiple divs to create a logical grouping within the html document. 
+<p>: The p tag is used to create a paragraph within the html document. it allows to create a smaller block where each paragraph would  be provided in a seperate line and ends with a blank line
