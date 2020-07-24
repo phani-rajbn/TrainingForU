@@ -1,2 +1,0 @@
-# TrainingForU
-Personalized Blog
